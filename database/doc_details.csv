@@ -1,0 +1,10 @@
+username,name,age,gender,email,phone,specialization,password
+Demo123,Demo Khan,30,Male,demo@gmail.com,9087640000,Cardiologist,Demo123
+Vignesh,Vignesh,18,Male,vignesh123@gmail.com,9099808800,Neurologist,Vignesh123
+DrFatima,Fatima Al-Farsi,35,Female,fatima.alfarsi@example.com,+966598765432,Dermatologist,DrFatima123
+DrYoussef,Youssef Abdullah,45,Male,youssef.abdullah@example.com,+966512345678,Neurologist,DrYoussef123
+aner123,Amreen,40,N/A,N/A,7897878798,N/A,amreen4
+abby,Abeez,N/A,N/A,N/A,6756895499,N/A,1290
+hjalz123,hjalz123,56,Male,test90@gmail.com,6765436754,Dermatologist,56qwer
+ahem23,Dr. Ahmded Khan,45,Male,test@gmal.com,6789654389,Cardiologist,123456
+fare456,Fareen,N/A,N/A,N/A,5678435678,N/A,457890
